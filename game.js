@@ -1,6 +1,7 @@
 /** Usage ***
 
-  Put code in ES6 complier
+  Put code in ES6 complier, or go to
+  https://jlimgh.github.io/verys-game/ and plug in the methods in the console.
 
   Game Instructions:
     1. Start game with a number of players. Every new game will reload with a new deck of cards.
